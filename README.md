@@ -396,8 +396,19 @@ Call to action :This involves giving the next step of my software whether it is 
 
 ## 11. What are the main features or functionalities that make your software stand out?
 
+1.User Experience (UX) and Interface
+My software should have a user friendly interface which should be responsive and accessible.It should also be customisable for personalisation.
 
+2.Performance and Efficiency
+My software should have efficient algorithms for optimized performance
 
+3.Security and Privacy
+The softare should have strong encryption for data protection
+
+4.Collaboration and Connectivity
+Should have real time collaboration tools ,offline functionality with automatic syncing
 
 ## 12. What data is available regarding the market size and growth potential for your software?
+
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
